@@ -24,9 +24,9 @@ Official home of **Ch'iVerve**, the personal brand of [climashscape](https://git
 
 <div align="center">
 
-[![](https://img.shields.io/badge/%E5%A5%96%E9%A1%B9_Award-2025_CHSLA-2E7D32)](http://www.chsla.org.cn)
-[![](https://img.shields.io/badge/%E5%A5%96%E9%A1%B9_Award-2025_WLA_Shortlist-00695C)](https://awards.worldlandscapearchitect.com/2025-student-award-winners)
-[![](https://img.shields.io/badge/%E6%B4%BB%E5%8A%A8_Event-2026_%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E8%8A%B1%E5%B1%95_Flower_Show-6A1B9A)](https://yllhj.beijing.gov.cn/ztxx/jcyyshj/djsh/202604/t20260429_4621450.shtml)
+[![](https://img.shields.io/badge/%E5%A5%96%E9%A1%B9_Award-2025_CHSLA-EAB308)](http://www.chsla.org.cn)
+[![](https://img.shields.io/badge/%E5%A5%96%E9%A1%B9_Award-2025_WLA_Shortlist-D97706)](https://awards.worldlandscapearchitect.com/2025-student-award-winners)
+[![](https://img.shields.io/badge/%E6%B4%BB%E5%8A%A8_Event-2026_%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E8%8A%B1%E5%B1%95_Flower_Show-8A2BE2)](https://yllhj.beijing.gov.cn/ztxx/jcyyshj/djsh/202604/t20260429_4621450.shtml)
 
 </div>
 
